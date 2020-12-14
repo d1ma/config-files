@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/dima/shared-canvas/shared-canvas-ts'
+let g:netrw_dirhist_6='/home/dima/shared-canvas/shared-canvas-ts/imports'
+let g:netrw_dirhist_5='/home/dima/shared-canvas/shared-canvas-ts'
+let g:netrw_dirhist_4='/home/dima/shared-canvas/shared-canvas-ts/server'
+let g:netrw_dirhist_3='/home/dima/shared-canvas/shared-canvas-ts'
+let g:netrw_dirhist_2='/home/dima/shared-canvas/shared-canvas-ts/imports/api'
+let g:netrw_dirhist_1='/home/dima/shared-canvas/shared-canvas-ts/imports'
