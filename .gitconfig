@@ -8,6 +8,6 @@
 	ci = commit
 	br = branch
 	cob = checkout -b
-  amend = commit -a --amend --no-edit
+ 	amend = commit -a --amend --no-edit
 	xl = log --graph --decorate --oneline --all
 
